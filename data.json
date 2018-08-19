@@ -1,0 +1,57 @@
+{
+	"details":{
+		"image":"picture.png",
+		"name":"suji",
+		"phonenum":"91-627869481",
+		"email":"sujinalibiddi@gmail.com",
+		"adress":"vignan nirula clz,gnt"
+	},
+	"career":{
+		"info":"css and html,javascript are used to create webpages"
+	
+	},
+	"education":[{
+		"qualification":"b.tech",
+		"institue":"vignan",
+		"year":"2016-20",
+		"percentage":"80%"
+	},
+	{
+
+        "qualification":"inter",
+		"institue":"narayana",
+		"year":"2014-15",
+		"percentage":"96%"
+	},
+
+	{
+		"qualification":"10th",
+		"institue":"st johns high school",
+		"year":"2013-14",
+		"percentage":"9.8"
+	}
+],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c,c++,java,dbms"]
+	},
+	{
+		"title":"databases",
+		"info":["sql,javascript,html"]
+	},
+	{
+		"title":"operating systems",
+		"info":["unix,linux,mac"]
+	}
+],
+	"achivements":[{
+		"title":"got prize in debet competition"
+	},
+	{
+		"title":"i got certificate to complete c programming language"
+	}
+]
+}
+	
+
+
